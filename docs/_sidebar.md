@@ -12,7 +12,7 @@
 
 * JavaScript
   * [基础]()
-  * [对象]()
+  * [对象](/javaScript/对象.md)
 * 框架工具
   * [VUE]()
 
