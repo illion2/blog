@@ -4,7 +4,7 @@
 * HTML
 
   * [基础]()
-  * [H5](zh-cn/more-pages.md)
+  * [H5]()
 
 * CSS
     * [js](01/js/)
@@ -14,7 +14,7 @@
   * [基础](javaScript/basic.md)
   * [对象](javaScript/object.md)
 * 框架工具
-  * [VUE]()
+  * [VUE](javaScript/)
 
 * 构建工具
   * Webpack
