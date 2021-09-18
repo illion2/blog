@@ -11,11 +11,11 @@
     * [vue](01/vue/)
 
 * JavaScript
-  * [基础](javaScript/basic.md)
-  * [对象](javaScript/object.md)
-  * [原型](javaScript/prototype.md)
+  * [基础](JavaScript/basic.md)
+  * [对象](JavaScript/object.md)
+  * [原型](JavaScript/prototype.md)
 * 框架工具
-  * [VUE](javaScript/)
+  * [VUE](JavaScript/)
 
 * 构建工具
   * Webpack
